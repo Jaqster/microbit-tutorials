@@ -10,7 +10,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "demo-tutorial.md"
+        "demo-tutorial.md",
         "barcelona-tourist.md"
     ],
     "testFiles": [
