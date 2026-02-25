@@ -11,6 +11,7 @@
         "main.ts",
         "README.md",
         "demo-tutorial.md"
+        "barcelona-tourist.md"
     ],
     "testFiles": [
         "test.ts"
